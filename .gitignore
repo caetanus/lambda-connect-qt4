@@ -1,0 +1,6 @@
+ui_*
+moc_*
+Makefile
+*.pro.user*
+*.sw*
+build/
